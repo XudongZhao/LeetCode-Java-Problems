@@ -1,4 +1,4 @@
-class AssignCookies {
+class Solution {
 
     public int findContentChildren(int[] g, int[] s) {
         int i = 0;
@@ -10,3 +10,9 @@ class AssignCookies {
         return i;
     }
 }
+
+//        Input: g = [1,2,3], s = [1,1]
+//        Output: 1
+//
+//        Input: g = [1,2], s = [1,2,3]
+//        Output: 2
