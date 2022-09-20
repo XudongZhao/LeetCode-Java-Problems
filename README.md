@@ -15,6 +15,18 @@ Array 数组
 
 Binary Search 二分查找
 
+Sorting 排序
+
+Depth-First Search 深度优先搜索
+
 Greedy 贪心算法
 
 Hash Table 哈希表
+
+Stack 堆栈
+
+Queue  队列
+
+Tree 树
+
+Graph 图
